@@ -44,10 +44,10 @@ function HeroContent() {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          Hello there! I'm Idriss Atik, a junior front-end web developer on a
+          Hello there! I&apos;m Idriss Atik, a junior front-end web developer on a
           journey to bring creativity and functionality to the digital world.
           With a passion for crafting visually appealing and user-friendly
-          interfaces, I'm excited to share my evolving portfolio with you.
+          interfaces, I&apos;m excited to share my evolving portfolio with you.
         </motion.p>
 
         <motion.a
