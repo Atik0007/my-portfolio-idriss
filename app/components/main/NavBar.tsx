@@ -12,16 +12,12 @@ const Navbar = () => {
           className="h-auto w-auto flex flex-row items-center"
         >
           <Image
-            src="/NavLogo.png"
+            src="/logo-no-background.svg"
             alt="logo"
-            width={70}
-            height={70}
+            width={100}
+            height={80}
             className="cursor-pointer hover:animate-slowspin"
           />
-
-          <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-            Atik Dev
-          </span>
         </a>
 
         <div className="w-[500px] h-full flex flex-row items-center justify-between md:mr-20">
